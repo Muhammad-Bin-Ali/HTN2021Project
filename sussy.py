@@ -1,1 +1,2 @@
-print (1 + 1);
+print ("hello");
+print ("muhammad if you read this dm me UwU")
